@@ -23,8 +23,9 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-### Name: JANARTHANAN K
+### Developed By: JANARTHANAN K
 ### Register No.: 212223040072
+### Date: 09/09/2024 
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ```
